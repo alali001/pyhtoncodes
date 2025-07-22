@@ -1,41 +1,4 @@
 
-# Assessment 1 - Programming-Skills-Portfolio
-Your task is to develop solutions to a series of coding exercises that will test your knowledge of the
-fundamental programming techniques introduced through the course of the module. These exercises
-complement the content delivered in class each week and allow you to put into practice what you have
-learned.
-When completing the exercises you should create a new project for each one and save them to this folder.
-Each exercise should be appropriately named (e.g. 01-CodingIsCool) so they are easy to find. You should
-commit changes in your repository often (as a minimum after completing each exercise), use descriptive
-messages for these commits, and ensure you are regularly pushing your code back to GitHub.
-
-# Marking
-The assessment has a total of 335 marks available across the following criteria:
-
-## Technical Implementation - 235 marks (~70%)
-
-Each exercise has a set number of marks available. You will be marked on the following:
-* Solution successfully compiles
-* Adherence to the task requirements
-* Correct usage of programming techniques 
-* Efficiency of the code
-* Implementation of advanced requirements (where relevant)
-* Correct use of coding conventions (e.g. formatting, indentation, commenting)
-In addition to the marks are also available for:
-
-## Repository Presentation - 35 marks (~10%)
-Have you saved your exercises to the correct location and made appropriate use of commits (e.g. per task
-with descriptive messages)
-
-## Extended Learning - 65 marks (~20%)
-Independent study is a crucial element of university study and helps solidify and extend learning. Additional
-marks are available for the completion of the following online course:
-
-[Introduction to Python](https://www.sololearn.com/en/learn/courses/python-introduction)
-
-
-
-
 ## Exercise 1: Coding is Cool- 10 Marks
 
 Fill in the blanks in the Python code below to output the phrase **"Coding is Cool"** to the console using variables and string concatenation.
